@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "Batman",
+    "car": "Batmobile"
+  },
+  {
+    "id": "2",
+    "car": "lada"
+  },
+  {
+    "id": "3",
+    "name": "SuperMan",
+    "car": "Honda",
+    "ingine": "some"
+  }
+]
